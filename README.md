@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Casper, a 30 something software developer from Norway.
+
 In terms of open source, I'm currently avoiding sleep to work on Deno and WebAssembly.
 
 [I've got GitHub sponsors set up if you're looking to support my work.](https://github.com/sponsors/caspervonb)
