@@ -2,7 +2,7 @@
 
 I'm Casper, a 30 something software developer from Norway.
 
-In terms of open source, I'm currently avoiding sleep to work on Deno and WebAssembly.
+In terms of open source, I'm currently avoiding sleep to work on the Deno JavaScript and TypeScript runtime as-well as some WebAssembly related things.
 
 **[Psst, I've got GitHub sponsors set up if you'd like to support my work.](https://github.com/sponsors/caspervonb)**
 <!--
