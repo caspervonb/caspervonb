@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Casper, a 30 something software developer from Norway.
 
 In terms of open source, I'm currently avoiding sleep to work on the Deno JavaScript and TypeScript runtime as-well as some WebAssembly related things.
 
-**[Psst, I've got GitHub sponsors set up if you'd like to support my work.](https://github.com/sponsors/caspervonb)**
+## **[Psst, I've got GitHub sponsors set up if you'd like to support my work.](https://github.com/sponsors/caspervonb)**
 <!--
 **caspervonb/caspervonb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
